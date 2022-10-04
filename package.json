@@ -1,0 +1,22 @@
+{
+    "name": "ui-core",
+    "version": "1.0.0",
+    "scripts": {
+        "build": "webpack"
+    },
+    "devDependencies": {
+        "css-loader": "^2.1.1",
+        "mini-css-extract-plugin": "^0.5.0",
+        "postcss": "^8.4.17",
+        "resolve-url-loader": "^5.0.0",
+        "sass": "^1.55.0",
+        "sass-loader": "^7.3.1",
+        "webpack": "^4.46.0",
+        "webpack-cli": "^4.10.0"
+    },
+    "dependencies": {
+        "autoprefixer": "^10.4.12",
+        "postcss-loader": "^4.3.0",
+        "style-loader": "^2.0.0"
+    }
+}

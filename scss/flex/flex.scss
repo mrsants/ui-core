@@ -1,0 +1,222 @@
+.flex-lg {
+    display: flex;
+}
+
+.flex-lg-inline {
+    display: inline-flex;
+}
+
+.flex-lg-row {
+    flex-direction: row;
+}
+
+.flex-lg-row-reverse {
+    flex-direction: row-reverse;
+}
+
+.flex-lg-col {
+    flex-direction: column;
+}
+
+.flex-lg-col-reverse {
+    flex-direction: column-reverse;
+}
+
+.flex-lg-wrap {
+    flex-wrap: wrap;
+}
+
+.flex-lg-no-wrap {
+    flex-wrap: nowrap;
+}
+
+.flex-lg-wrap-reverse {
+    flex-wrap: wrap-reverse;
+}
+
+.flex-lgjustify-start {
+    justify-content: flex-start;
+}
+
+.flex-lgjustify-end {
+    justify-content: flex-end;
+}
+
+.flex-lgjustify-center {
+    justify-content: center;
+}
+
+.flex-lgjustify-between {
+    justify-content: space-between;
+}
+
+.flex-lgjustify-around {
+    justify-content: space-around;
+}
+
+.flex-lg-align-start {
+    align-items: flex-start;
+}
+
+.flex-lg-align-end {
+    align-items: flex-end;
+}
+
+.flex-lg-align-center {
+    align-items: center;
+}
+
+.flex-lg-align-stretch {
+    align-items: stretch;
+}
+
+.flex-lg-align-baseline {
+    align-items: baseline;
+}
+
+.flex-lg-align-content-start {
+    align-content: flex-start;
+}
+
+.flex-lg-align-content-end {
+    align-content: flex-end;
+}
+
+.flex-lg-align-content-center {
+    align-content: center;
+}
+
+.flex-lg-align-content-stretch {
+    align-content: stretch;
+}
+
+.flex-lg-align-content-between {
+    align-content: space-between;
+}
+
+.flex-lg-align-content-around {
+    align-content: space-around;
+}
+
+.flex-lg-align-self-start {
+    align-self: flex-start;
+}
+
+.flex-lg-align-self-end {
+    align-self: flex-end;
+}
+
+.flex-lg-align-self-center {
+    align-self: center;
+}
+
+.flex-lg-align-self-stretch {
+    align-self: stretch;
+}
+
+.flex-lg-align-self-baseline {
+    align-self: baseline;
+}
+
+.flex-lg-align-self-auto {
+    align-self: auto;
+}
+
+.flex-lg-order-first {
+    order: -1;
+}
+
+.flex-lg-order-last {
+    order: 1;
+}
+
+.flex-lg-order-none {
+    order: 0;
+}
+
+.flex-lg-grow1 {
+    flex: 1 1 0%;
+}
+
+.flex-lg-grow2 {
+    flex: 2 1 0%;
+}
+
+.flex-lg-grow3 {
+    flex: 3 1 0%;
+}
+
+.flex-lg-grow4 {
+    flex: 4 1 0%;
+}
+
+.flex-lg-grow5 {
+    flex: 5 1 0%;
+}
+
+.flex-lg-shrink0 {
+    flex-shrink: 0;
+}
+
+.flex-lg-shrink1 {
+    flex-shrink: 1;
+}
+
+.flex-lg-shrink2 {
+    flex-shrink: 2;
+}
+
+.flex-lg-shrink3 {
+    flex-shrink: 3;
+}
+
+.flex-lg-shrink4 {
+    flex-shrink: 4;
+}
+
+.flex-lg-shrink5 {
+    flex-shrink: 5;
+}
+
+.flex-lg-expand {
+    margin: auto;
+}
+
+.flex-lg-expand-left {
+    margin-left: auto;
+}
+
+.flex-lg-expand-right {
+    margin-right: auto;
+}
+
+.flex-lg-expand-top {
+    margin-top: auto;
+}
+
+.flex-lg-expand-bottom {
+    margin-bottom: auto;
+}
+
+.flex-lg-basis-auto {
+    flex-basis: auto;
+}
+
+.flex-lg-basis-0 {
+    flex-basis: 0;
+}
+
+.flex-lg-initial {
+    flex: 0 1 auto;
+    flex-basis: auto;
+}
+
+.flex-lg-auto {
+    flex: 1 1 auto;
+    flex-basis: auto;
+}
+
+.flex-lg-none {
+    flex: 0 0 auto;
+    flex-basis: auto;
+}
